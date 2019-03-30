@@ -1,0 +1,51 @@
+{
+  "legos": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow"
+    },
+    {
+      "creator": "Bob",
+      "color": "Black",
+      "shape": "Oblong",
+      "creation": "??",
+      "id": 2
+    },
+    {
+      "creator": "Anne",
+      "color": "Orange",
+      "shape": "Triangle",
+      "creation": "Illuminati",
+      "id": 3
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Red"
+    },
+    {
+      "id": 2,
+      "name": "Green"
+    },
+    {
+      "id": 3,
+      "name": "Yellow"
+    },
+    {
+      "id": 4,
+      "name": "Blue"
+    },
+    {
+      "id": 5,
+      "name": "Orange"
+    },
+    {
+      "id": 6,
+      "name": "Black"
+    }
+  ]
+}
