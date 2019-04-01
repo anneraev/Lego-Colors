@@ -1,25 +1,11 @@
 {
   "legos": [
     {
-      "id": 1,
-      "creator": "Per Sun",
-      "color": "Black",
-      "shape": "Animal",
-      "creation": "Black Cow"
-    },
-    {
-      "creator": "Bob",
-      "color": "Black",
-      "shape": "Oblong",
-      "creation": "??",
-      "id": 2
-    },
-    {
       "creator": "Anne",
-      "color": "Orange",
+      "colorsId": 3,
       "shape": "Triangle",
       "creation": "Illuminati",
-      "id": 3
+      "id": 1
     }
   ],
   "colors": [

@@ -1,7 +1,7 @@
-const newLego = (creator, color, shape, creation) => {
+const newLego = (creator, colorId, shape, creation) => {
     const newLego = {
         creator: creator,
-        color: color.name,
+        colorsId: parseInt(colorId),
         shape: shape,
         creation: creation
     };
